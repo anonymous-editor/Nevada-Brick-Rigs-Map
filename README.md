@@ -20,7 +20,7 @@ Currently, the map is in it's early stages of development. Here's a generic over
     Add props to the map, for increased immersiveness.
 
 - Stage 5:
-    Bugfixes and general improvemnts.
+    Bugfixes and general improvements.
 
 - Stage 6:
     First production release with proper advertising.
